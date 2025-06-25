@@ -63,7 +63,7 @@ Aplikasi ini mengimplementasikan steganografi dengan pendekatan yang lebih aman 
 ## 📦 Kebutuhan
 
 -   Python 3.x
--   `tkinter` (biasanya sudah termasuk dalam instalasi standar Python)
+-   `tkinter`
 -   `Pillow`
 
 ---
