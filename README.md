@@ -1,6 +1,6 @@
-# 🔐 LSB Matching Steganography dengan GUI Modern
+# 🔐 LSB Matching Steganography dengan GUI
 
-Ini adalah aplikasi steganografi desktop yang memungkinkan Anda untuk menyembunyikan pesan teks rahasia di dalam file gambar (`.png`, `.bmp`) dan mengekstraknya kembali. Aplikasi ini dibangun dengan Python menggunakan `tkinter` untuk antarmuka grafis (GUI) yang modern, bersih, dan intuitif.
+Ini adalah aplikasi steganografi desktop yang memungkinkan Anda untuk menyembunyikan pesan teks rahasia di dalam file gambar (`.png`, `.bmp`) dan mengekstraknya kembali. Aplikasi ini dibangun dengan Python menggunakan `tkinter` untuk antarmuka grafis (GUI).
 
 ![Screenshot (913)](https://github.com/user-attachments/assets/d1553438-c81b-4a3a-98e1-f12273644ff2)
 ![Screenshot (914)](https://github.com/user-attachments/assets/bfd8f7d3-8ef2-4e67-a2c9-33f68f4bb70c)
